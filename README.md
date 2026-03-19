@@ -2,10 +2,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KercyDing&label=Visitor+Count)
 
--   I’m currently an undergraduate student at **Hefei University of Technology (HFUT)**.🫡
--   My major is **Optoelectronics**, but I'm deeply passionate about the world of computer science.😇
--   I believe in the power of open source and enjoy contributing to the community.😗
--   How to reach me: dkx215417@gmail.com.🫶
+- 🎓 Undergrad at HFUT. 🫡
+- 🔦 Majoring in Optoelectronics by day, happily lost in CS by night. 😇
+- 🌍 Open source enthusiast. I break things, then try to fix them. 😗
+- 📬 Drop me a line: dkx215417@gmail.com 🫶
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KercyDing/KercyDing/output/github-contribution-grid-snake-dark.svg">
