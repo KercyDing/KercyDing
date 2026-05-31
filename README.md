@@ -5,7 +5,7 @@
 - 🔦 Happily lost in CS.
 - 🌍 Open source advocate.
 - ❤️‍🔥 Committed idealist.
-- 🦎 Zig for fun, 🦀 Rust for engineering.
+- 🦎 Zig for fun.
 - 📬 Drop me a line: **dkx215417@gmail.com**.
 
 <picture>
