@@ -3,7 +3,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=KercyDing&label=Visitor+Count)
 
 - 🔦 Happily lost in CS.
-- 🌍 Open source enthusiast.
+- 🌍 Open source advocate.
+- ❤️‍🔥 Committed idealist.
 - 🦎 Zig for fun, 🦀 Rust for engineering.
 - 📬 Drop me a line: **dkx215417@gmail.com**.
 
