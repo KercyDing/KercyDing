@@ -1,11 +1,10 @@
-### Hi there, I'm KercyDing
+###  I'm KercyDing
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KercyDing&label=Visitor+Count)
 
-- 🔦 Happily lost in CS.
-- 🌍 Open source advocate.
-- 🦎 Zig for fun.
-- 📬 Drop me a line: **dkx215417@gmail.com**.
+- Happily lost in CS.
+- Open source advocate.
+- Zig for fun.🦎
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KercyDing/KercyDing/output/github-contribution-grid-snake-dark.svg">
