@@ -1,5 +1,3 @@
-###  I'm KercyDing
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=KercyDing&label=Visitor+Count)
 
 - Happily lost in CS.
